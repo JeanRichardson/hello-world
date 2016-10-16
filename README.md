@@ -1,2 +1,4 @@
 # hello-world
-tutorial-test repository
+Hello, Earthlings.
+Code is neither the Alpha nor the Omega.
+Code is a path.
